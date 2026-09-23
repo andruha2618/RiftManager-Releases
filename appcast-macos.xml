@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Rift Manager for macOS</title>
-    <description>Stable macOS releases</description>
-    <language>ru</language>
-    <!-- Empty by design. Replace with generate_appcast output after signing a real ZIP.
-         Each item needs increasing sparkle:version (CFBundleVersion),
-         sparkle:shortVersionString, minimumSystemVersion, architecture requirements,
-         HTTPS GitHub Release enclosure URL, actual byte length and edSignature.
-         Never publish an active enclosure with placeholder signature or length. -->
-  </channel>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Rift Manager Updates</title>
+        <link>https://github.com/andruha2618/RiftManager-Releases</link>
+        <description>Rift Manager update feed</description>
+        <language>ru</language>
+
+        <item>
+            <title>Rift Manager 1.0.0</title>
+
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+
+            <enclosure
+                url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.0/RiftManager-1.0.0-macOS.zip"
+                sparkle:version="37"
+                sparkle:shortVersionString="1.0.0"
+                length="47541212"
+                type="application/octet-stream"
+                sparkle:edSignature="rF0xJkbzC5jWNtX6pzlGuRUqejBqqQ3ZDj/4d/aBAR+43eRGAnNH8Ud09aBmdytozg+02VZHE/mygFIQpPwxBQ==" />
+        </item>
+    </channel>
 </rss>
