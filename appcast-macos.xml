@@ -8,17 +8,17 @@
         <language>ru</language>
 
         <item>
-            <title>Rift Manager 1.0.0</title>
+            <title>Rift Manager 1.0.1</title>
 
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
             <enclosure
-                url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.0/RiftManager-1.0.0-macOS.zip"
-                sparkle:version="37"
-                sparkle:shortVersionString="1.0.0"
-                length="47541212"
+                url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.1/RiftManager-1.0.1-macOS.zip"
+                sparkle:version="38"
+                sparkle:shortVersionString="1.0.1"
+                length="46377616"
                 type="application/octet-stream"
-                sparkle:edSignature="rF0xJkbzC5jWNtX6pzlGuRUqejBqqQ3ZDj/4d/aBAR+43eRGAnNH8Ud09aBmdytozg+02VZHE/mygFIQpPwxBQ==" />
+                sparkle:edSignature="qVYephf14idbBLbS9WbQTxXtAYA7j109BPwJqUiD5s8mx8cNgf7WFLxDMm/SvBrPXRdt7d6W4BBiMSP5lu+8AQ==" />
         </item>
     </channel>
 </rss>
