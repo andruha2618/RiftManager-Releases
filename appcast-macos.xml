@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Rift Manager for macOS</title>
+    <description>Stable macOS releases</description>
+    <language>ru</language>
+    <!-- Empty by design. Replace with generate_appcast output after signing a real ZIP.
+         Each item needs increasing sparkle:version (CFBundleVersion),
+         sparkle:shortVersionString, minimumSystemVersion, architecture requirements,
+         HTTPS GitHub Release enclosure URL, actual byte length and edSignature.
+         Never publish an active enclosure with placeholder signature or length. -->
+  </channel>
+</rss>

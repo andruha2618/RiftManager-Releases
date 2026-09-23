@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Rift Manager for Windows — reserved</title>
+    <description>No Windows releases available</description>
+    <language>ru</language>
+    <!-- Future WinSparkle feed. No Windows implementation or installer is included.
+         Keep this channel separate from macOS. Before enabling it, configure a
+         Windows-specific EdDSA key and compatible installer/version comparison.
+         Generate enclosure metadata using the chosen WinSparkle version's docs.
+         Never reuse the macOS ZIP as a Windows enclosure. -->
+  </channel>
+</rss>
