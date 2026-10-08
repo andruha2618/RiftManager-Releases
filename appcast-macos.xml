@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-        <title>Rift Manager Updates</title>
-        <link>https://github.com/andruha2618/RiftManager-Releases</link>
-        <description>Rift Manager update feed</description>
-        <language>ru</language>
-
-        <item>
-            <title>Rift Manager 1.0.1</title>
-
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-
-            <enclosure
-                url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.1/RiftManager-1.0.1-macOS.zip"
-                sparkle:version="38"
-                sparkle:shortVersionString="1.0.1"
-                length="46377616"
-                type="application/octet-stream"
-                sparkle:edSignature="qVYephf14idbBLbS9WbQTxXtAYA7j109BPwJqUiD5s8mx8cNgf7WFLxDMm/SvBrPXRdt7d6W4BBiMSP5lu+8AQ==" />
-        </item>
-    </channel>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Rift Manager Updates</title>
+    <link>https://github.com/andruha2618/RiftManager-Releases</link>
+    <description>Rift Manager update feed</description>
+    <language>ru</language>
+    <item>
+      <title>Rift Manager 1.0.5</title>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>Вход Apple ID с 2FA, поиск, покупки и загрузка IPA через ipatool-rift. Исправлена упаковка помощника App Store.</description>
+      <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.5/RiftManager-1.0.5-macOS.zip" sparkle:version="42" sparkle:shortVersionString="1.0.5" length="74554561" type="application/octet-stream" sparkle:edSignature="5r5Wk9nkAojQx353AkX814ftju1sUKb2eHUmXJiRYwF3xwe1xawS2xYqTicGRntS+sBozFreLFwVoedkzPRwDQ==" />
+    </item>
+    <item>
+      <title>Rift Manager 1.0.1</title>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.1/RiftManager-1.0.1-macOS.zip" sparkle:version="38" sparkle:shortVersionString="1.0.1" length="46377616" type="application/octet-stream" sparkle:edSignature="qVYephf14idbBLbS9WbQTxXtAYA7j109BPwJqUiD5s8mx8cNgf7WFLxDMm/SvBrPXRdt7d6W4BBiMSP5lu+8AQ==" />
+    </item>
+  </channel>
 </rss>
