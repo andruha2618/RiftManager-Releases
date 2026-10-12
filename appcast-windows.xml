@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Rift Manager for Windows — reserved</title>
-    <description>No Windows releases available</description>
+    <title>Rift Manager for Windows</title>
+    <description>Signed Windows x64 updates</description>
     <language>ru</language>
-    <!-- Future WinSparkle feed. No Windows implementation or installer is included.
-         Keep this channel separate from macOS. Before enabling it, configure a
-         Windows-specific EdDSA key and compatible installer/version comparison.
-         Generate enclosure metadata using the chosen WinSparkle version's docs.
-         Never reuse the macOS ZIP as a Windows enclosure. -->
+    <item>
+      <title>Rift Manager 1.0.0 for Windows</title>
+      <sparkle:version>1.0.0</sparkle:version>
+      <pubDate>Mon, 12 Oct 2026 10:29:42 GMT</pubDate>
+      <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/windows-v1.0.0/RiftManager-1.0.0-Windows-x64-Setup.exe" length="135893256"
+        type="application/octet-stream" sparkle:os="windows-x64"
+        sparkle:edSignature="x4RCOHqHTZDDCgqDTU8L2mwOEkrMImKE58ISaYwiGvukI5+n4ZV9/NbeUU1Gjz0zX63oqBWK4GzMRLUL8hPOBQ==" />
+    </item>
   </channel>
 </rss>
