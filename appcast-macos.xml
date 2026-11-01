@@ -7,18 +7,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rift Manager update feed</description>
         <language>ru</language>
         <item>
+            <title>Rift Manager 2.0.1</title>
+            <pubDate>Sun, 01 Nov 2026 16:30:01 GMT</pubDate>
+            <sparkle:version>201</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Rift UI, Rift Core Native, улучшенная история покупок и исторические метаданные приложений, показатели загрузки, исправления сайдбара и очереди IPA. Сборка с локальной подписью без нотариального заверения Apple. Физическая проверка Intel в этом выпуске не проводилась; некоторые arm64-компоненты копирования требуют macOS 26+. Зашифрованная резервная копия может завершиться ошибкой 255.</description>
+            <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v2.0.1/RiftManager-2.0.1-201-macOS.zip" length="128987847" type="application/octet-stream" sparkle:edSignature="mmSkTK5sDd1ZP3v1KkCMVuuF7cPm6KgXo8iMk7+Jd9K4v+mOuh/bxey6CkLaPOiiNhX1/ZZ37tTZ2OQ1V/2FBQ=="></enclosure>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Wed, 14 Oct 2026 19:43:54 +0500</pubDate>
             <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Rift Manager 1.0.6 — macOS 13+
+            <description sparkle:format="plain-text">Rift Manager 1.0.6 — macOS 13+
 
 Универсальная сборка для Apple Silicon и Intel Mac.
 Исправлена совместимость компонентов доступа к iPhone с Intel Mac на macOS 13.
 Исправлено наложение индикатора в окне установки.
 Улучшен вид «Обзора» при уменьшенном окне и обработка ошибок загрузки из Apple ID.
-]]></description>
+</description>
             <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v1.0.6/RiftManager-1.0.6-43-macOS.zip" length="94978367" type="application/octet-stream" sparkle:edSignature="z2wGNVfxuMP22cDG36/xM+LJwJEPSYDG81uHFhBqwfK9iwLt2IbNgiVKRSbMi0YtF9hajyoz6HNgvuf9L6YyBg=="></enclosure>
         </item>
         <item>
@@ -34,6 +43,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3tprBlNzhcjT/fbAzB+bd3MxK8i566NFb+kgK90yLgDZeDUMXN69+yQIVmII0xCX/yztDd4KFffbJBxBCgmnBw==
-length: 3062
+edSignature: s/NnD47iUygadgXy41YdZvZbnFYVB7zbz5hA7MX1FVbmvPYMo9fLkKM2LZFCIQ1nF213tZz1QyQT7mjS8oDLAw==
+length: 4441
 -->
