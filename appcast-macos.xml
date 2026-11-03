@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rift Manager update feed</description>
         <language>ru</language>
         <item>
+            <title>Rift Manager 2.0.3</title>
+            <pubDate>Tue, 03 Nov 2026 06:37:38 GMT</pubDate>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Исправлено зависание при ошибке загрузки IPA. Уточнены подсказки для зашифрованных резервных копий.</description>
+            <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v2.0.3/RiftManager-2.0.3-203-macOS.zip" length="129096345" type="application/octet-stream" sparkle:edSignature="LEfTEd+mqZQ6L8jqsdvQAyanGUdqa7dAupEFN7QA4YPvq3B8cjYQb7DZNQHXdu3axuYCRqKSLCecyiu7OBXlBg=="></enclosure>
+        </item>
+        <item>
             <title>Rift Manager 2.0.1</title>
             <pubDate>Sun, 01 Nov 2026 16:30:01 GMT</pubDate>
             <sparkle:version>201</sparkle:version>
@@ -43,6 +52,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: s/NnD47iUygadgXy41YdZvZbnFYVB7zbz5hA7MX1FVbmvPYMo9fLkKM2LZFCIQ1nF213tZz1QyQT7mjS8oDLAw==
-length: 4441
+edSignature: EUmVpx/H7MSQmffqWVquBEQSeKONjZ5/iZkg2QFGD4F2d8Ww67X9pVMJYZdf6OU/Xg2TVfZkD37NLkg2KiTVDw==
+length: 5346
 -->
