@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rift Manager update feed</description>
         <language>ru</language>
         <item>
+            <title>Rift Manager 2.0.4</title>
+            <pubDate>Tue, 03 Nov 2026 12:15:37 GMT</pubDate>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Компактное окно установки IPA, восстановленная анимация диалогов и перенос исторических метаданных Apple ID.</description>
+            <enclosure url="https://github.com/andruha2618/RiftManager-Releases/releases/download/v2.0.4/RiftManager-2.0.4-204-macOS.zip" length="129101287" type="application/octet-stream" sparkle:edSignature="azhueGLXKIC2sflICcQaeAu3cbnuWL50hudzK/j99Bg/maFquVbfATLF5M6IjYTBzI8kij3FmgMCJtAVGeQSAQ=="></enclosure>
+        </item>
+        <item>
             <title>Rift Manager 2.0.3</title>
             <pubDate>Tue, 03 Nov 2026 06:37:38 GMT</pubDate>
             <sparkle:version>203</sparkle:version>
@@ -52,6 +61,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EUmVpx/H7MSQmffqWVquBEQSeKONjZ5/iZkg2QFGD4F2d8Ww67X9pVMJYZdf6OU/Xg2TVfZkD37NLkg2KiTVDw==
-length: 5346
+edSignature: PY+RTWlRlJdg0n2BK9w9C04roMN0BmycJZ1KsNxVNoVOLrDzQTxmdk4a8c8iQiYHDTxJ6usk0vn83HGhMbtpBA==
+length: 6261
 -->
